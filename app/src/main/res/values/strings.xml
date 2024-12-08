@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Fast Food</string>
+    <string name="default_web_client">791317914343-m32arjtgjno5vh5l0uqnovgbkd4j9d9t.apps.googleusercontent.com</string>
+    <string name="email">Email</string>
+    <string name="required">Required</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="facebook_app_id">550623587778344</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">56789</string>
+
+
+</resources>
